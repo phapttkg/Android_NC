@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MOB201_PS08944</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="rss_text">https://vnexpress.net/rss/tin-moi-nhat.rss</string>
+    <string name="rss_trangthai" />
+    <string name="rss_taitrang">Download</string>
+    <string name="facebook_app_id">392147598266938</string>
+    <string name="fb_login_protocol_scheme">fb392147598266938</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Cơ Sở</string>
+
+</resources>

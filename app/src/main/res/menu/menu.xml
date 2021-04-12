@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lblKhoaHoc"
+            android:icon="@drawable/khoahoc"
+            android:title="Khóa Học"></item>
+        <item
+            android:id="@+id/lblNew"
+            android:icon="@drawable/news"
+            android:title="Tin Tức"></item>
+        <item
+            android:id="@+id/lblMap"
+            android:icon="@drawable/map"
+            android:title="Cơ Sở"></item>
+
+
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lblSocial"
+            android:icon="@drawable/fb"
+            android:title="Xã Hội"></item>
+
+        <item
+            android:id="@+id/lblDangXuat"
+            android:icon="@drawable/exit"
+            android:title="Đăng Xuất"></item>
+    </group>
+
+</menu>
